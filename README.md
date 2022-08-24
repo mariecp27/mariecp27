@@ -1,7 +1,7 @@
 ## Hi there! I'm Maria Herlandia 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US">
+  <a href="https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US" target="_blank">
     <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
  <p/>
