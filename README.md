@@ -40,7 +40,7 @@ Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, 
 
 **📈 My github stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=radical" alt="Maria's stats" />
  
 
 
