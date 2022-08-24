@@ -8,7 +8,7 @@
 </a>
  <p/>
 
-<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/media/4ea6406ae11f0bf51f823a8a9bcf7f1a.gif" width="500" height="320" /><p/>
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif" width="500" height="320" /><p/>
 
 Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, JavaScript, Node.js, Express.js and Relational Databases, MySQL. Experience on tech teams’ management and leadership. Goal oriented and fast learner 😄.
 
@@ -40,7 +40,7 @@ Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, 
 
 **📈 My github stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=radical" alt="Maria's stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=tokyonight" alt="Maria's stats" />
  
 
 
