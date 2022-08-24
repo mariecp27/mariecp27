@@ -1,23 +1,54 @@
 ## Hi there! I'm Maria Herlandia 👋
 
-I am a bilingual chemical engineer, a software developer technician, and a full-stack web development student. I have knowledge in HTML, CSS and JavaScript; furthermore, I have completed some personal projects by using PHP for connecting with Relational Databases, SQL.
+<p align="center"><a href="https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US">
+  <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mariehercp/">
+  <img align="center" alt="Maria's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+ <p/>
 
-I am a creative person, goal oriented, and I am willing to learn new things 😄.
+<p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/media/4ea6406ae11f0bf51f823a8a9bcf7f1a.gif" width="500" height="320" /><p/>
 
-📖  Since December 2021 I belong to the Full-stack Web Development Bootcamp offered by ProTalento, where the technical aspect is in charge of Digital House. Along with my teamwork, we are working in order to ensure that the bootcamp project, an e-commerce, full fit all requirements, and that it allows us to gain experience in additional features.
+Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, JavaScript, Node.js, Express.js and Relational Databases, MySQL. Experience on tech teams’ management and leadership. Goal oriented and fast learner 😄.
 
-Finally, in February 2022 I started working as a Product Owner in the applications department in WebHelp, Medellin.
+📖  Since December 2021 to June 2022 I belonged to the Full-stack Web Development Bootcamp offered by ProTalento, where the technical aspect was in charge of Digital House. Along with my teamwork, we worked in order to ensure that the bootcamp project, an e-commerce, full fit all requirements, and that it allows us to gain experience in additional features. This is the [result](https://comic-vs-manga.herokuapp.com/) I'm proud of.
 
 💻 I am looking for opportunities for starting a career as a developer.
 
-💬 You can reach me out through:
-- Email: mariaher.cp@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US)
+💬 You can reach me out through: mariaher.cp@gmail.com
 
- ---
-### 🔭 I’m currently working on ...
+---
 
-You can find our bootcamp project [here](https://github.com/mariecp27/grupo_8_ComicVSManga)
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+---
+
+**🔭 I’m currently working on ...**
+
+[Coderhouse Project](https://github.com/mariecp27/my-collection-spot-copete)
+
+---
+
+**📈 My github stats:**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+ 
+
+
+
+
+
+
+
 <!--
 **mariecp27/mariecp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
