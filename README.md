@@ -1,11 +1,9 @@
 ## Hi there! I'm Maria Herlandia 👋
 
-<p align="center"><a href="https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US">
-  <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/mariehercp/">
-  <img align="center" alt="Maria's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-herlandia-copete/?locale=en_US">
+    <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
  <p/>
 
 <p align="center"><img alt="GIF" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif" width="500" height="320" /><p/>
@@ -20,7 +18,7 @@ Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, 
 
 ---
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
