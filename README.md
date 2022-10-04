@@ -12,8 +12,6 @@ Bilingual engineer and full-stack web developer. Strong knowledge in HTML, CSS, 
 
 📖  Since December 2021 to June 2022 I belonged to the Full-stack Web Development Bootcamp offered by ProTalento, where the technical aspect was in charge of Digital House. Along with my teamwork, we worked in order to ensure that the bootcamp project, an e-commerce, full fit all requirements, and that it allows us to gain experience in additional features. This is the [result](https://comic-vs-manga.herokuapp.com/) I'm proud of.
 
-💻 I am looking for opportunities for starting a career as a developer.
-
 💬 You can reach me out through: mariaher.cp@gmail.com
 
 ---
