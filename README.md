@@ -42,26 +42,7 @@
 
 **📈 My github stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariecp27&show_icons=true&theme=tokyonight" alt="Maria's stats" />
- 
+<p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api?username=mariecp27&show_icons=true&theme=tokyonight" alt="Maria's stats" /></p>
 
+<p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api/top-langs/?username=mariecp27&langs_count=7&layout=compact&theme=tokyonight" alt="Maria's langs" /></p>
 
-
-
-
-
-
-<!--
-**mariecp27/mariecp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
