@@ -44,5 +44,5 @@
 
 <p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api?username=mariecp27&show_icons=true&theme=tokyonight" alt="Maria's stats" /></p>
 
-<p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api/top-langs/?username=mariecp27&langs_count=7&layout=compact&theme=tokyonight" alt="Maria's langs" /></p>
+<p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api/top-langs/?username=mariecp27&langs_count=8&layout=compact&theme=tokyonight" alt="Maria's langs" /></p>
 
