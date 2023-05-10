@@ -34,12 +34,6 @@
 
 ---
 
-**🔭 I’m currently working on ...**
-
-[Coderhouse React Project](https://github.com/mariecp27/duck-kingdom)
-
----
-
 **📈 My github stats:**
 
 <p align="center"> <img src="https://github-readme-stats-mariecp27.vercel.app/api?username=mariecp27&show_icons=true&theme=tokyonight" alt="Maria's stats" /></p>
